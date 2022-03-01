@@ -1,0 +1,535 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Breefe collection concerning the love of God tovvards mankinde, &amp; hovv for diuers causes vve are iustlie bounde to loue &amp; serue him with preparation to prayer, and certaine necessarie prayers and thankesgeuing to God for his benefites, daylie to be vsed : also a deuote meditation to procure contrition, and excite deuotion with other vertuous prayers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1603</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 72 KB of XML-encoded text transcribed from 46 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12150</idno>
+            <idno type="STC">STC 5554</idno>
+            <idno type="STC">ESTC S1869</idno>
+            <idno type="EEBO-CITATION">22854748</idno>
+            <idno type="OCLC">ocm 22854748</idno>
+            <idno type="VID">178568</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12150)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178568)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1790:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Breefe collection concerning the love of God tovvards mankinde, &amp; hovv for diuers causes vve are iustlie bounde to loue &amp; serue him with preparation to prayer, and certaine necessarie prayers and thankesgeuing to God for his benefites, daylie to be vsed : also a deuote meditation to procure contrition, and excite deuotion with other vertuous prayers.</title>
+               </titleStmt>
+               <extent>62 [i.e. 72], [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Laurence Kellam at the signe of the Holie Lambe,</publisher>
+                  <pubPlace>Printed at Doway :</pubPlace>
+                  <date>1603.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title: A treatise of the loue of God.</note>
+                  <note>Signatures: A-C¹² D².</note>
+                  <note>Numerous errors in paging.</note>
+                  <note>Reproduction of original in the Lambeth Palace Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Prayer-books and devotions.</term>
+               <term>God --  Love.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:178568:1"/>
+            <p>A BREEFE COLLECTION CONCERNING THE LOVE of God tovvards Mankinde, &amp; hovv for diuers cauſes vve are iuſtlie bounde to loue &amp; ſerue him.</p>
+            <p>WITH PREPARATION TO <hi>Prayer, and certaine neceſſarie prayers and thankeſgeuing to God for his bene<g ref="char:EOLhyphen"/>fites, daylie to be vſed.</hi>
+            </p>
+            <p>Alſo a deuote Meditation to procure Contrition, and excite Deuotion With other vertuous prayers.</p>
+            <q>
+               <bibl>ECCLESIAST. 18.</bibl>
+               <p>
+                  <hi>Before Prayer prepare thy Soule: &amp; be not as a man that tempteth God</hi>
+               </p>
+            </q>
+            <figure/>
+            <p>Printed at Doway, by LAVRENCE KELLAM at the ſigne of the holie Lambe. 1603.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:178568:2"/>
+            <p>
+               <figure/>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:178568:2"/>
+            <p>BEing deſirerous (good Reader) to haue published ſome short Collecti<g ref="char:EOLhyphen"/>on of moſt neceſſairie praiers, but hin<g ref="char:EOLhyphen"/>dred by diuers vrge<g ref="char:cmbAbbrStroke">̄</g>t occatio<g ref="char:cmbAbbrStroke">̄</g>s: I thought good, in reſpect of my duty to God, and neceſsity of the time prese<g ref="char:cmbAbbrStroke">̄</g>t, rather vvith the poore vvidovve, to offer vnto him this ſimple Mite, for the increaſe of his honour in helping of the godly, then al<g ref="char:EOLhyphen"/>together to geue ouer my purpoſe. And vvheras true vertue, co<g ref="char:cmbAbbrStroke">̄</g>ſiſteth principal<g ref="char:EOLhyphen"/>lye in the loue of God: vvithout vvhieh our praiers are of no force. I haue here prepared a litle Treatiſe concerning that matter, and in vvhat reſpect vvee are bounde to ſerue him: In vvhich, as in a glaſse vve may clerelie behold our ingra<g ref="char:EOLhyphen"/>itude,
+<pb facs="tcp:178568:3"/> tovvardes ſo louing a Lord. And becauſe manie rather of cuſtome then true deuotion, ſo rashlie goe about that holie vvoorke of prayer: I haue ſet dou<g ref="char:cmbAbbrStroke">̄</g>e a preparation thereunto, vvith neceſſarie prayers, Meditations, and thankeſge<g ref="char:EOLhyphen"/>uing, to be vſed daylie. Farevvell.</p>
+         </div>
+      </front>
+      <body>
+         <div type="introduction">
+            <pb n="5" facs="tcp:178568:3"/>
+            <head>A BREFE COLLECTION CON<g ref="char:EOLhyphen"/>cerning the Loue of God towards Mankin<g ref="char:EOLhyphen"/>de, &amp; howe wee are for diuers cauſes bound to ſerue &amp; loue him.</head>
+            <p>THE great and incomprehenſible charitye of our Lorde towardes Mankinde, maye be co<g ref="char:cmbAbbrStroke">̄</g>ſidred fower ſun<g ref="char:EOLhyphen"/>drye wayes.</p>
+            <p>Firſt in the dignitie of our Creation. Secondly in taking our coruptible natu<g ref="char:EOLhyphen"/>re. Thirdly in ſuſteining for vs his B. paſſion. And fourthly in his great bene<g ref="char:EOLhyphen"/>fits and bountiful giftes, both ſpiritual &amp; corporal, which may iuſtly kindle &amp; inflame the hartes of al true Chriſtians, to render to him again that which he re<g ref="char:EOLhyphen"/>quireth of vs, which is nothing elſe but a loueing harte, a iuſte &amp; vpright life.</p>
+            <pb n="6" facs="tcp:178568:4"/>
+            <p> In the dignitie of our Creation, hath he ſhewed, that he loued vs more then any other creature in the world: &amp; that in two things. Firſt in creating &amp; ma<g ref="char:EOLhyphen"/>king vs acording to his owne Image &amp; likenes: ſecondly in conſtituting vs Lords and Gouerners ouer al his other creatures.</p>
+            <p>In taking of our nature, he hath alſo ſhewed that he loued Mankind better then Angels, &amp; that in three reſpectes. Firſt in honour, becauſe he aſſumpted our nature, &amp; not the nature of Angels: Secondly in loue, in that he repayred Mankinde with his precious bloud, &amp; not them. And thirdly in viſion, becauſe in heauen we ſhall poſſeſſe more ioye in Contemplation of Chriſtes Humanitie then the Angels, in that we ſhal ſee our nature, vnited to the deuine Nature.</p>
+            <p>But in ſuffring his B. Paſſion, he hath ſhewed [as we may ſay] that he loued vs better then him ſelfe, geuing for our
+<pb n="7" facs="tcp:178568:4"/> Saluation freely his whole Body &amp; life. And here marke, that in this B. Paſſion of our Sauiour, we may learne fiue no<g ref="char:EOLhyphen"/>table thinges.</p>
+            <p>Firſt it teacheth vs to geue him hartie thanks for the glorious fruite which we haue receiued by the ſame, which gratfulnes is a thing ſo acceptable vnto-him, as S. Aug. ſaith, that nothing maybe more. This B. Lambe of God which was conceiued &amp; borne without ſinne, wold thus ſuffer for vs, that by his pain<g ref="char:EOLhyphen"/>ful Paſſion, he might pul vs backe from the filthy pleaſure of ſinne. He ſuffred in all his members, that with our me<g ref="char:cmbAbbrStroke">̄</g>bers, we might willingly ſerue him. Hee offe<g ref="char:EOLhyphen"/>red for vs his precious blood the price of our Redemption, that we might offer our bodies with al the force of the ſame to doe him ſeruice.</p>
+            <p>Secondly it teacheth vs to loue him, becauſe aboue all things, he loued vs.</p>
+            <p>Thirdly it teacheth vs how much we
+<pb n="8" facs="tcp:178568:5"/> ought to deteſt &amp; hate ſinne, for which he ſuſteined ſuch a painful &amp; dolorous Paſſion, yea he abhorreth it ſo much, that not withſtanding his great deſire of our Saluation: he condemneth the ſin<g ref="char:EOLhyphen"/>ner for one deadly offence to perpetuall payne &amp; tormente.</p>
+            <p>Fourthly it teacheth vs Fortitude, to withſtand ſtrongly any aduerſity, paine or tribulation, for the honour &amp; loue of him, that loued vs ſo much: &amp; alſo for our owne Saluation, becauſe tribu<g ref="char:EOLhyphen"/>lation in this world paciently ſuſtained is the ready way to heauen. This bleſſed Paſſion being called to reme<g ref="char:cmbAbbrStroke">̄</g>bra<g ref="char:cmbAbbrStroke">̄</g>ce there is nothing ſo harde, as S. Iſidore ſaith, which is not with an equal minde tolle rated. Let vs therfore as true Souldiers, diligently ſtudye to ſuffer with him: &amp; the<g ref="char:cmbAbbrStroke">̄</g> no doubte we ſhall, as S. Paule ſaith, be pertakers of his co<g ref="char:cmbAbbrStroke">̄</g>ſolatio<g ref="char:cmbAbbrStroke">̄</g>s &amp; Ioyes.</p>
+            <p>Fiftly it teacheth vs Humilitie, for if Chriſt, which was the Sonne of God,
+<pb n="9" facs="tcp:178568:5"/> abaſed &amp; humbled him ſelfe ſo much as to deſce<g ref="char:cmbAbbrStroke">̄</g>d from his glorious Kingdome, into this vale of miſery, to take vppon him oure baſe Nature, &amp; ſuffer ſuch an ignominious death: with what face can man lifte vp him ſelfe in pride, &amp; con<g ref="char:EOLhyphen"/>temne ſo louing a Redeemer? This Hu<g ref="char:EOLhyphen"/>mility is the ground &amp; foundation of all Vertue, &amp; without that no vertue can be acceptable in the ſight of God which cauſed our Sauior ſo carefully in his ho<g ref="char:EOLhyphen"/>lye Goſpell, to admoniſh vs of the ſame, ſaying. Learne of me, for I am meke &amp; humble in hart. And S. Ambroſe ſaith, that how much more abiect a man is in this life: ſo much the more he ſhalbe exalted in the world to come. Woulde thou haue al vices, ſaith one, deſtroied within thee? Learne then to be truely humble. To which agreeth S. Aguſt. ſaying. Humilitie is the Quene of ver<g ref="char:EOLhyphen"/>tues, the death of vyces, the looking glaſſe of virgins, &amp; the harboure of the
+<pb n="10" facs="tcp:178568:6"/> holy Trinitie. It is only humilitye, ſaith S. Bernard, that exalteth: &amp; ſhe alone le<g ref="char:EOLhyphen"/>adeth to life, becauſe ſaith he, this is the way, &amp; ther is none other. And therfore S. Gregory ſaith well, that whatſoeuer a man doth is loſt, if it be not kepte by humility. God graunt vs to imbrace this Vertue, &amp; to imitate that ſwete Lambe, which as S. Bernard ſaith, was borne poore, liued poore, &amp; dyed poore.</p>
+            <p>Now touching his bountiful Giftes, it driueth me into a maſe, to remember them. Firſt how he hath made vs, as is before ſaid, to his owne B. Image and likenes, geueing vs the noble giftes of Memorye, Reaſon, &amp; Will: &amp; hath made the Soule of man ſo noble, that nothing is able to fill or ſatiſfie it, but him ſelfe alone. It may well be occupied, as S. Ber<g ref="char:EOLhyphen"/>narde ſaith, vvith all other thinges: but filled or ſatiſfied, can it not bee.</p>
+            <p>He doth inrich vs alſo vvith his grace &amp; doth viſite comforte &amp; ſtrength vs,
+<pb n="11" facs="tcp:178568:6"/> vvith his good inſpirations, &amp; motions to Vertue: And in the end, hath prepa<g ref="char:EOLhyphen"/>red ſuch Ioyes for vs, as paſſeth all vn<g ref="char:EOLhyphen"/>derſtanding, either of man or Angels.</p>
+            <p>And for the giftes corporall, they be alſo ſuch &amp; ſo many, as are maruelus to co<g ref="char:cmbAbbrStroke">̄</g>ſider. He hath created for our behoofe the Elements, vvith the Sunne to geue vs light by day, &amp; the Moone to illumi<g ref="char:EOLhyphen"/>nate the night. The Fyre to keepe vs fro<g ref="char:cmbAbbrStroke">̄</g> coulde: &amp; the Ayre to mitigate his hea<g ref="char:EOLhyphen"/>te, and preſerue our health. The Water to vvaſhe away our filthines. The Earth vvith his variable Fruites to ſuſteine vs, &amp; vvith his beautiful Flowers, to recre<g ref="char:EOLhyphen"/>ate vs: Beſids the great diuerſity of Bea<g ref="char:EOLhyphen"/>ſtes, Foules, and Fiſhes, for our noriſh<g ref="char:EOLhyphen"/>ment &amp; delight.</p>
+            <p>He hath geuen vnto vs our Wittes, &amp; right Limmes, vvith Beauty, Stre<g ref="char:cmbAbbrStroke">̄</g>gth &amp; comlye ſhape. He hath kepte &amp; deliue<g ref="char:EOLunhyphen"/>red vs from many daungers, both of fire &amp; vvater, thunder &amp; tempeſt, ſlanders,
+<pb n="12" facs="tcp:178568:7"/> ſhames, &amp; many other euels, vvith the vvhich, for our ſinns, he might iuſtlye haue puniſhed vs: &amp; vvhe<g ref="char:cmbAbbrStroke">̄</g> vve offended in deadly ſinne, haue caſt vs headlong into hell: &amp; yet of his tender loue hath forborne &amp; ſpared vs.</p>
+            <p>O vvhat ſhall vve render againe vnto God for all his Benefits? hovv infinitly are vvee bounde to loue &amp; ſerue him, not only in reſpect of his goodnes in him ſelfe (vvhich is the cheefeſt cauſe indede) &amp; of his tender loue towards vs: But alſo in reſpecte of the greate delight he taketh in our ſeruice, yea muche more the<g ref="char:cmbAbbrStroke">̄</g> he doth in the ſeruice of his Angels, &amp; the reaſon is this becauſe man doth not only ſerue God of loue as the An<g ref="char:EOLhyphen"/>gels doe: but alſo vvith laboure &amp; paine, vvhich they doe not: For he laboreth more in ſeruing him one day, then they haue donne ſince the beginning of the vvorld: &amp; therfore doth God ſingulerly delighte in our praiers, &amp; other good
+<pb n="13" facs="tcp:178568:7"/> vvorkes, &amp; ſhal geue vs, if vve continew to the ende, a double Crowne of glorye, that is both in Bodye &amp; Soule.</p>
+            <p>And here vnderſtand, that for diuers cauſes we are iuſtly bound to ſerue him.</p>
+            <p>Firſt for our Creatio<g ref="char:cmbAbbrStroke">̄</g>, becauſe vve are created only to that ende: &amp; therfore all our members &amp; ſtrengthe of bodye &amp; Soule, are to be imploied &amp; exercyſed in his holye Seruice.</p>
+            <p>Alſo vve are bounde to ſerue him in reſpect of his louing ſeruice done vnto vs, vvho ſaith by his Prophet Eſay, <hi>Ser<g ref="char:EOLhyphen"/>uire me fecisti in peccatis tuis,</hi> that is, thou haſt cauſed me to ſerue in thy ſinns: As vvhen he praied, faſted &amp; preached, vvhen he vvas vvhipped &amp; crowned vvith thorne, vvhe<g ref="char:cmbAbbrStroke">̄</g> he caried his Croſſe, &amp; theron ſuffered painfull death: &amp; be<g ref="char:EOLhyphen"/>ſides all this, in token of his great loue, he ſerueth vs ſtill vvith his owne bleſſed Body &amp; blood in the holy Sacramente, &amp; therfore euery vvay are vve bound
+<pb n="14" facs="tcp:178568:8"/> moſt louinglye to ſerue him againe.</p>
+            <p>Alſo vve are bound to ſerue him, in reſpect of our Obligatio<g ref="char:cmbAbbrStroke">̄</g> &amp; Vowe, made in Baptiſme: hauing ther vovved &amp; pro<g ref="char:EOLhyphen"/>miſed ſo to doe al the time of our life.</p>
+            <p>Likevviſe for his great Benefites, as is before ſaid, beſtovved vpon vs.</p>
+            <p>And laſtlye for that ineſtimable glory that he hath promiſed to al thoſe that loue, and truly ſerue him to the ende.</p>
+            <p>But becauſe no Seruice can be accep<g ref="char:EOLhyphen"/>table vnto him, which procedeth not from a cleane and pure harte: It ſhal not be here amiſſe to declare brefely, by vvhat meanes the ſame may be obtai<g ref="char:EOLhyphen"/>ned &amp; gotten.</p>
+            <p>Firſt he that vvould ſerue God truely in clea<g ref="char:cmbAbbrStroke">̄</g>nes of harte &amp; Conſcience muſte daily behould, and looke into his wor<g ref="char:EOLhyphen"/>kes, and diligentlye conſider his whole ſtate and conuerſation, &amp; ſee if there be any thing in the ſame reprehenſible, or contrary to the vvill of God: becauſe
+<pb n="15" facs="tcp:178568:8"/> the knovvledge of our felfe, is the be<g ref="char:EOLhyphen"/>ginning of our health &amp; Saluation.</p>
+            <p>Secondly vvhat-ſoeuer he findeth in him-ſelfe, in vvhich he hath offended God: he muſt hartely repent, &amp; humbly aske mercy for the ſame, firmely pur<g ref="char:EOLhyphen"/>poſing therof to make a cleare and per<g ref="char:EOLhyphen"/>fecte confeſſion, ſo ſoone as he maye.</p>
+            <p>Thirdly he muſt vvith careful ſtudy, and deuoute prayer, continually deſire of God, to kepe &amp; defend him fro<g ref="char:cmbAbbrStroke">̄</g> ſinne: for as the holy Prophete ſaith, Except God kepe the city, he vvatcheth in vain that keepeth it. Therfore euery man ought to ſerue God in greate humilitie, &amp; with co<g ref="char:cmbAbbrStroke">̄</g>tinual watche &amp; warde ouer him ſelfe. The difficulty of Perſeuerance in vvell doing appeareth in the fall of Lucifer from heaue<g ref="char:cmbAbbrStroke">̄</g>, of Adam fro<g ref="char:cmbAbbrStroke">̄</g> Para<g ref="char:EOLhyphen"/>dice, and Iudas fro<g ref="char:cmbAbbrStroke">̄</g> the nomber of the xij Apoſtles: vvhat cauſe haue vve therfore to pray, as our Sauioure counſeleth vs continually, hauing experience of our
+<pb n="16" facs="tcp:178568:9"/> owne vveaknes &amp; debility in reſiſting temptations: In ſomuch that ſomtimes through one only vvorde, vve are pro<g ref="char:EOLhyphen"/>uoked to anger and impacience.</p>
+            <p>Therfore it behoueth vs euer to ſtand in feare for offending God, and to that ende ſaith the Scripture. Bleſſed is the man that is euer fearfull. And S. Bernard ſaith, that feare and Religion are knit to<g ref="char:EOLunhyphen"/>gether: &amp; that the one can not remaine vvithout the other. God geue vs grace, that vve may dailye ſtudie to obtaine this moſt noble vertue, that the bleſ<g ref="char:EOLhyphen"/>ſinge vvhich Chriſte ſpeaketh of in the Goſpel, may light on vs: vvhere he ſaith Bleſſed be the cleane in hart<g ref="char:punc">▪</g> for they ſhal ſee God, To vvhom be all honoure for Euer-more. Amen.</p>
+         </div>
+         <div type="prayer">
+            <head>A Thankeſgeuing to the B. Trinitie to be Daylie vſed.</head>
+            <p>AL Honoure, thankes, and praiſe, be to thee o bleſſed Father of hea<g ref="char:EOLhyphen"/>ue<g ref="char:cmbAbbrStroke">̄</g> which haſt created &amp; made me. Glo<g ref="char:EOLhyphen"/>ry
+<pb n="17" facs="tcp:178568:9"/> be to thee, o B. Sonne of God vvhich with thy precious bloode haſt redeemed me. Glory be to thee, o holy Ghoſte, vvhich haſt Sanctified me. Glory be to thee, o holy, B. and Indeuided Trinitie, whoſe vvorkes are meruailous, &amp; paſſe all vnderſtanding. I laude &amp; praiſe thee vvith hart and mouth, and geue louing thanks vnto thee, for all thy B. Benefits Spiritual and Corporal, and ſinge vnto thee, the Hime of glory, Sanctus. San<g ref="char:EOLhyphen"/>ctus. Sanctus. Thou only art God, and beſids thee there is none at all, vvhich vvorkeſt greate, meruailous and Inſcru<g ref="char:EOLhyphen"/>table things, wherof ar no end. To thee belongeth al Laude and Iubilie. To thee all Angells the Heauens, &amp; vniuerſall Powers, doe ſing Praiſes. To thee o glo<g ref="char:EOLhyphen"/>rious Trinitie be geuen all honor of eue<g ref="char:EOLhyphen"/>ry creature both in Heauen and Earthe novv and for euer more. Amen.</p>
+            <closer>Soli Deo honor &amp; gloria.</closer>
+         </div>
+         <div type="prayer">
+            <argument>
+               <pb n="18" facs="tcp:178568:10"/>
+               <p>An Inuocation to be vſed before Praier, for the attaining of Gods grace, the aſiſta<g ref="char:cmbAbbrStroke">̄</g>ce &amp; directio<g ref="char:cmbAbbrStroke">̄</g> of the holye Ghoſt. And alſo to obtaine therby, Humillity, Charity, Puritie of Inte<g ref="char:cmbAbbrStroke">̄</g>tion, Cleannes &amp; Peace of harte: for protection, &amp; defence, againſt the aſſaultes, te<g ref="char:cmbAbbrStroke">̄</g>ptations, &amp; firye dartes of the Deuil: &amp; al inuiſible, &amp; viſible enemies.</p>
+               <p>VVhat is to be co<g ref="char:cmbAbbrStroke">̄</g>ſidred before Prayer, &amp; the manner to behaue your ſelfe therin, morning &amp; eueninge, before the office of oure Ladye, or other vſuall Praiers: with certaine Benedictio<g ref="char:cmbAbbrStroke">̄</g>s, which you maye vſe all or parte, at your Diſcretion.</p>
+               <p>VVhat is to be Premeditated before praier.</p>
+            </argument>
+            <p>VVHen you inte<g ref="char:cmbAbbrStroke">̄</g>d to offer the Sa<g ref="char:EOLhyphen"/>crifice of Prayer, &amp; Praiſes, to almighty God, &amp; prepare you to praier.</p>
+            <p>Recale your Senſes, &amp; gather to ge<g ref="char:EOLhyphen"/>ther your vvittes, &amp; vvith an humble, attentiue, &amp; deuoute mind, lifte vp your harte to God: Reuerently ſtanding vp<g ref="char:EOLhyphen"/>right, vvith your handes ioyned before your breſte, &amp; lifted vpp.</p>
+            <p>Pauſe then a litle vvhile, &amp; aduiſed
+<pb n="19" facs="tcp:178568:10"/> lye conſider vvith your ſelfe vvherefore you come, vvheraboute you goe, and vvhat buſines, you novv take in hande.</p>
+            <p>Alſo, before vvhom you are preſent, the Petitions you vvill aske, and the Offerring you meane to make.</p>
+            <p>Remember you are novv, before a moſte mighty &amp; Deuine Maieſty: The Creator, and Redeemer, of your ſelfe &amp; all Mankinde, vvhome Infinite Num<g ref="char:EOLhyphen"/>bers of Angels, &amp; all the Caeleſtiall mul<g ref="char:EOLhyphen"/>titude doe continually adore &amp; vvor<g ref="char:EOLhyphen"/>ſhipe, vvith feare &amp; tremblinge.</p>
+            <p>And your ſelfe, a moſt wretched &amp; vnworthey Creature, fraile vnſtable, falling from him: dulle, &amp; vn-apte to call vpon him. And yet, his mercy is ſo muche, &amp; his goodnes ſo great, that he is euer, ready to heare, &amp; graciouſly to graunte, your lawful requeſtes, and to receiue you when you come vnto him: &amp; alſo to forgeue you al your offences, when you are hartely ſorye, &amp; aske mer<g ref="char:EOLhyphen"/>cye
+<pb n="20" facs="tcp:178568:11"/> for them.</p>
+            <p>Likewiſe, he is one that hath, and doth, moſt bountefully beſtow vpon you, al thinges neceſſary for body and ſoule: &amp; hath and doth, defend &amp; kepe, feede &amp; nouriſh, you, &amp; al creatures.</p>
+            <p>And that before his diuine Preſence, you nowe preſume to enter, and to pre<g ref="char:EOLhyphen"/>ſent you ſelfe: To Intreate, beſeech, &amp; Require mercye, and forgeuenes of ſin<g ref="char:EOLhyphen"/>nes, for your ſelfe &amp; al others: &amp; to of<g ref="char:EOLhyphen"/>fer the Sacrifiſe of Prayſe, &amp; Thankes<g ref="char:EOLhyphen"/>geuinge.</p>
+            <p>Therfore, with al humility, &amp; reue<g ref="char:EOLhyphen"/>rence, proſtrate your ſelfe at the feete of his mercye: &amp; Indeuore vvith deuoti<g ref="char:EOLhyphen"/>on, to accompliſh that you come for.</p>
+            <p>But before you begin your praiers, that you maye the rather, offer them vvith cleannes of harte, &amp; geue thankes to God, not only for his Benefits, but chefely for his goodnes in him ſelfe; Make it fully knovven to your harte (as
+<pb n="21" facs="tcp:178568:11"/> true it is vncertaine vvhether you ſhal liue to the ende of your Prayers or not: Indeuor therfore thay maye be ſuch, as if it ſhold ſo happen before you had en<g ref="char:EOLhyphen"/>ded them, that ſo through the mercy of God, they may be acceptable vnto him, for the ful forgeuenes of your former offences &amp; the receiuing you to his fa<g ref="char:EOLhyphen"/>uoure.</p>
+            <p>And that you may the more perfectly, beginne, continevv, and ende, al your prayers, and other good actions In the Name, &amp; to the honoure, &amp; glorye of God, the moſte holy &amp; bleſſed Trinitye: &amp; haue in minde his greate goodnes to<g ref="char:EOLhyphen"/>vvardes you, &amp; Benefits beſtovved vpon you, &amp; geue thankes for them, and alſo, that the Paſſion of our Lord, may take the more effecte, the benefit of it be Im<g ref="char:EOLhyphen"/>parted, the fruite ther of Inioyed: and in al ſpiritual Practiſes remembred: You may, yf it pleaſe you, begin your Pray<g ref="char:EOLhyphen"/>ers, in manner as folovveth Meekly fal<g ref="char:EOLhyphen"/>ling
+<pb n="22" facs="tcp:178568:12"/> on your knees, your hart &amp; ioyned hands, being Eleuated to God.</p>
+         </div>
+         <div type="prayer">
+            <head>VVhat is firſt to be vſed, at the begin<g ref="char:EOLhyphen"/>ning of Prayer.</head>
+            <p>IN the Name of the Father. and of the Sonne. and of the Holy Ghoſt. Ame<g ref="char:cmbAbbrStroke">̄</g>.</p>
+            <p>In the Name, and Honoure of our Lord IESVS Chriſt, Emanuel, Crucifi<g ref="char:EOLhyphen"/>ed, for our Redemption, and Saluation.</p>
+            <p>In the Honoure of God, the moſte holy, Bleſſed, Glorious, and Indeuided, Trinitye: and Eternal Maieſtie.</p>
+            <p>In the Honoure of our Lorde Ieſus Chriſtes Humanity: and In memory of his greate Charitye, towardes me, and all Mankinde.</p>
+            <p>In the vvorſhippe of oure Bleſſed Ladye, the holye Virgin S. Marye: and In minde of her Humilitye.</p>
+            <p>In the Name, and Honoure, of God the moſte holye Trinitye In Vnitie, &amp; Vnitie In Trinitye, To whom be al glory.</p>
+            <pb n="23" facs="tcp:178568:12"/>
+            <p> And In the Honoure, and Memory, of our Lorde Ieſus Chriſtes humble In<g ref="char:EOLhyphen"/>carnation, his Chaſte Natiuitie, his life &amp; Conuerſation, Charitable Death, &amp; Bitter Paſſion: His glorious Reſurre<g ref="char:EOLhyphen"/>ction, &amp; Aſſcenſion: &amp; the Comming of the Holye Ghoſte.</p>
+            <p>In the Honoure, and Memorye of all the Laboures, &amp; Vertues, of our Lorde Ieſus Chriſte, &amp; of his holy Lyfe &amp; Con<g ref="char:EOLhyphen"/>uerſation.</p>
+            <p>In the Honoure, and Memorye, of the bitter Agonie, Blooddye Svvete, and Painfull Prayer, that our Lorde Ie<g ref="char:EOLhyphen"/>ſus Chriſte, made in the Mounte of Oli<g ref="char:EOLhyphen"/>uet: Before his taking &amp; B. Paſſion.</p>
+            <p>And In Honour, &amp; Memory of al the Partes, &amp; Paynes, of his moſte Bleſſed, bitter, &amp; Paynfull Paſſion.</p>
+            <p>In the Honoure, and Memorye of the fiue Woundes, that vvere perſed in our Lord Ieſus Chriſtes Bleſſed Bodye and Handes, &amp; Feete, his Side, &amp; Harte.</p>
+            <pb n="24" facs="tcp:178568:13"/>
+            <p> And that I may vvith all Humillitie, &amp; Reuere<g ref="char:cmbAbbrStroke">̄</g>ce, haue in Minde, &amp; vvorſhip aright as I ought, al the Precious drop<g ref="char:EOLhyphen"/>pes of Blood, that our Lord Ieſus Chriſt ſhed for my ſake &amp; all Mankinde.</p>
+            <p>And likevviſe, that I may euer haue in minde, &amp; obtaine the Promiſed laſte Revvard, of Saluation, Glorification, &amp; Perpetual Fruition of the Deyitie: &amp; eſ<g ref="char:EOLhyphen"/>chevve the Puniſhme<g ref="char:cmbAbbrStroke">̄</g>t, &amp; Payne, of eter<g ref="char:EOLhyphen"/>nal damnation: I offer thes my praiers.</p>
+            <p>O God moſte holy o A Donay, in thy Name, &amp; to thy honoure &amp; glorye: I Be<g ref="char:EOLhyphen"/>gin, Continue, &amp; end, theſe my prayers: &amp; I offer this my dutie and laboure, vn<g ref="char:EOLhyphen"/>to thy moſte Sacred Diuinitye.</p>
+            <p>O Good Lorde Ieſus Chriſte, I offer vnto thee my harte, &amp; Soule, and I offer my ſelfe Bodye and Soule, vvith all the partes, povvers &amp; vvorkes therof, &amp; all my thoughts, vvordes and deeds, all my Intentions, and Actions, and all the La<g ref="char:EOLhyphen"/>boures of my hands: To doe thy vvyll in
+<pb n="25" facs="tcp:178568:13"/> al, &amp; acco<g ref="char:cmbAbbrStroke">̄</g>pliſh all to thy honore &amp; glo<g ref="char:EOLhyphen"/>ry, novv, &amp; all the time of my life.</p>
+            <p>And I beſeeche thee, O God Holye Ghoſte, geue me grace, and ſtrength, to doe thy vvill in all thinges: to obay, ſer<g ref="char:EOLhyphen"/>ue, &amp; loue thee aright, &amp; to offer theſe my Prayers, vvith cleannes of harte, pu<g ref="char:EOLhyphen"/>rity of Intention, vprightnes of Action, &amp; vvith Attention, &amp; Deuotion, In per<g ref="char:EOLhyphen"/>fect charity, vvith true humility, &amp; in the Vnitye of thy true Church, &amp; Faith Catholike, that they maye, aſcend into thy ſight, &amp; be acceptable vnto thee, as a ſwete Sacrifice of Inſence.</p>
+            <p>O Bleſſed &amp; Indeuided Trinity, I of<g ref="char:EOLhyphen"/>fer vnto thy deuine Omnipote<g ref="char:cmbAbbrStroke">̄</g>cie, theſe my Prayers, dutie, &amp; laboures, for my health, helpe, &amp; parfect vveale, &amp; for al things neceſſary, for my body &amp; ſoule &amp; for the right direction of my vvhole Life, as it may be beſt pleaſing, and moſte acceptable vnto thee.</p>
+            <p>And likewiſe, I offer vnto thy Omni<g ref="char:EOLhyphen"/>potent
+<pb n="26" facs="tcp:178568:14"/> Maieſty, o Holy and Glorious Trinitie, theſe my Prayers, dutie &amp; la<g ref="char:EOLhyphen"/>bours, for the health, &amp; helpe of ſoule and body, of al other perſons, that thy B. vvil and pleaſure is to haue praied for Quicke &amp; deade, vvithin the Church &amp; vvithout, in ſpecial &amp; general, thoſe in ſpecial, that I am moſt behoulding to and bounde to Praye for, by Inioyned penance, blood or kinred, promiſe debt, or any other benefit receiued.</p>
+            <p>And for all other in generall, that thy bleſſed vvill &amp; pleaſure is to haue praied for: And for vvhom, and vvhat ſoeuer elſe, thy Wyſdome knoweth neceſſarye &amp; my frailtie can not acke.</p>
+            <p>That it may pleaſe thee to grau<g ref="char:cmbAbbrStroke">̄</g>t vnto vs, Pacience in all temptations, &amp; tribu<g ref="char:EOLhyphen"/>lations, ghoſtly &amp; bodelye: Protection &amp; defence, againſt all enemies viſible, &amp; inuiſible: Conſtancie &amp; perſeuerance in vertue &amp; al goodnes, helpe &amp; releefe, in all needes &amp; neceſſities: Eaſe &amp; deli<g ref="char:EOLhyphen"/>uerie,
+<pb n="27" facs="tcp:178568:14"/> out of al troubles &amp; affictions that vvee are in, or may any vvaye happen vnto vs. And to liue &amp; dye, in the Vnitie of the true Catholike Faith &amp; Church, and come to bliſſe.</p>
+            <p>O moſte Bleſſed; Glorious, &amp; Indeui<g ref="char:EOLhyphen"/>ded Trinitie, I humbly here proſtrate my ſelfe, before the Feete of thy Deuine Maieſtie, and meſurleſſe mertie: Beſee<g ref="char:EOLhyphen"/>ching thee of mercy, &amp; forgeuenes of ſinnes, for my ſelfe, and all others: and mittigation of thy Iuſtice towardes vs, nowe, &amp; in the howre of our Death, &amp; at our Iudgement, perticuler, &amp; genarall. Grant this Lord Ieſus Amen.</p>
+         </div>
+         <div type="prayer">
+            <head>Deuoute Praiers, &amp; Bleſsings, to be vſed at the beginning of Praier, for obtaining Grace, &amp; aſsiſtance of the Holy Ghoste.</head>
+            <p>IN the name of God. Amen.</p>
+            <p>In the name of the Father, &amp; of the Sonne &amp; of the Holye Ghoſte. Amen.</p>
+            <p>By the ſigne of the holye Croſſe, and vertue of oure Lordes Paſſion: from our
+<pb n="28" facs="tcp:178568:15"/> enemies, viſible, &amp; inuiſible, deliuer vs o Lorde our God.</p>
+            <p>The Grace of the Holy Ghoſt, lighten our hartes, and Senſces: and be vvith vs. Amen.</p>
+            <p>Come Holy Ghoſte, &amp; fill the hartes or all faithful people, &amp; kindle in them the fyre, of thy deuine Loue.</p>
+         </div>
+         <div type="prayer">
+            <p>O God be our helper, in vvhoſe Na<g ref="char:EOLhyphen"/>me &amp; by vvhoſe vvorde all things are done: Who hath made heauen and earth.</p>
+            <p>O Lord, in thy Name, ſhal I lift vp my handes and harte, that my Prayers may aſcend, &amp; be acceptale vnto thee as an Euening Sacrifice.</p>
+            <p>In thy Name o Lorde, ſhal I receiue helthe, &amp; helpe, &amp; in thy Name, &amp; by thy Power, ſhal I be made ſafe. And in thy Vertue, thou ſhall Iudge me.</p>
+            <p>The triumphant Croſſe, &amp; victorious Paſſion of our Lord, and the glorious Name IESVS, honored in heauen and
+<pb n="29" facs="tcp:178568:15"/> earth, be our defence &amp; ſafety, ſheeld &amp; protection, &amp; he bleſſe &amp; kepe vs novv, &amp; euer. Amen.</p>
+            <p>IESVS vvho is the vviſdome of the Father, geue vs health of Body &amp; Soule. Amen.</p>
+            <p>God Almighty, bleſſe &amp; directe me, &amp; be vvith me nowe, &amp; euer, in my be<g ref="char:EOLhyphen"/>ginning, proceeding, &amp; ending. Amen.</p>
+         </div>
+         <div type="prayer">
+            <p>GOd be in my head, &amp; in my being.</p>
+            <p>God be in my mind, &amp; vnderſtan<g ref="char:EOLhyphen"/>ding God be in my eyes, &amp; in my Seeing.</p>
+            <p>God be in my Eares, &amp; in my hearing.</p>
+            <p>God be in my mouth, &amp; in my ſpeaking.</p>
+            <p>God be in my harte, &amp; in my thinking.</p>
+            <p>God keepe me from al euel in my vvor<g ref="char:EOLhyphen"/>king touching, ſmelling, &amp; al my other ſences God be at my ending, and my departing.</p>
+            <p>Bleſſe me o God the Father, vvho hath made me, and Created me.</p>
+            <p>Bleſſe me o God the Sonne, vvho Suffered for me, and Redeemed me.</p>
+            <pb n="30" facs="tcp:178568:16"/>
+            <p> Bleſſe me o God the Holye Ghoſte, who in Baptiſme, hath Sanctified me, &amp; ſince, hath called, defended, &amp; noriſhed me.</p>
+            <p>O Holye Trinitie, of thy Incompre<g ref="char:EOLhyphen"/>henſible goodnes, lighten my harte, &amp; ſences, my minde, &amp; vnderſtanding, my ſoule &amp; bodie, vvith the light of thy grace, &amp; be vvith me now &amp; euer. Ame<g ref="char:cmbAbbrStroke">̄</g>.</p>
+         </div>
+         <div type="prayer">
+            <head>The Manner to offer your ſelfe &amp; Prayers to God, firſt, &amp; laſt.</head>
+            <p>O My moſte ſwete Lord Ieſus Chriſt in the Vnitie, and Vnion, of loue, that thou did praiſe, &amp; pray, to thy Fa<g ref="char:EOLhyphen"/>ther, &amp; take great paine &amp; laboure for vs ſinners, duringe thy life-time here on earth: I offer vnto thee this Prayer, and Prayſe, this Laude, and labour, and my ſelfe bodye &amp; ſoule, vvith all the partes powers &amp; actions therof: To doe all to the honoure &amp; glorie of thy holie name. the weale of the true Catholike Church the furtherance and increaſe of Vertue,
+<pb n="31" facs="tcp:178568:16"/> &amp; helping of ſouls to euerlaſting bliſſe.</p>
+            <p>O moſte deare Lorde Ieſus Chriſte. In the Vnitie, &amp; Vnion, of Loue, that moued thee to be Incarnate, &amp; become Man: and dye for vs ſinners.</p>
+            <p>I offer vnto thee this prayſe, this praier, this vvorke &amp; labour, &amp; my ſelfe bodie and ſoule, to doe thy vvil in all thinges, now, and alwayes. Amen.</p>
+            <p>O Good Lord Ieſus Chriſt, I offer vn to thy Father, for the Remiſſion of my ſinnes (and all others) the paines, bitter Paſſion, and Death, that thou did ſuffer for me, and all Mankinde.</p>
+            <p>Forget good Lord, and cleerly remit, the ſinnes, &amp; offences, of vs &amp; our pa<g ref="char:EOLhyphen"/>rents, and be not reue<g ref="char:cmbAbbrStroke">̄</g>ged on our deme<g ref="char:EOLhyphen"/>rits, but ſpare, &amp; forgeue vs, thy people penitentes, vvith thy Bloode precious, from ſinne, &amp; from tormentes boughte, &amp; Redeemed. And euer let mercy, tem<g ref="char:EOLhyphen"/>per thy vvrath, againſt vs, &amp; our follye.</p>
+            <p>As our hope is in thee our truſt &amp; af<g ref="char:EOLhyphen"/>fiance,
+<pb n="32" facs="tcp:178568:17"/> Ame<g ref="char:cmbAbbrStroke">̄</g> to this ſay vve with hart &amp; true co<g ref="char:cmbAbbrStroke">̄</g>ſcie<g ref="char:cmbAbbrStroke">̄</g>ce. Graunt theſe my praiers, moſt B. Lord Ieſus. To vvhom be al praiſe &amp; glory, now &amp; euer bleſſed.</p>
+         </div>
+         <div type="prayer">
+            <head>Certaine neceſſarie praiers, to be daily vſed, mor<g ref="char:EOLhyphen"/>ning &amp; euening: with others. And firſt. A thankeſgeuing to God, at your vpriſinge.</head>
+            <p>I Geue thee thankes, laude, and praiſe, o moſt holie &amp; bleſſed Trinitie, one omnipotent, and eternal Maieſtie, who haſte this night preſerued, defended, &amp; viſited, me thy vnworthie ſeruant, N. and haſt cauſed me thus, to come to the beginning of this daie, and for all thy o<g ref="char:EOLhyphen"/>ther benefites, which of thy onlie good<g ref="char:EOLhyphen"/>nes thou haſte beſtowed on me.</p>
+            <p>O Father moſt merciful, I beſech thee of mercie and forgeuenes, how ſoeuer I haue this night offended thy diuine Ma<g ref="char:EOLhyphen"/>ieſte, and graunte me grace ſo to ſpend this day, in thy holie ſeruice, faith feare, and loue: that vvith all humilitie, chari<g ref="char:EOLhyphen"/>tie, diſerction, deuotion, &amp; obedeence,
+<pb n="33" facs="tcp:178568:17"/> I may be able to doe all my deedes and ſeruices due, as they may be beſt plea<g ref="char:EOLhyphen"/>ſinge and moſt acceptable vnto thee, In all my thoughtes, vvordes, and workes. and graunt me by thy grace, alvvayes to liue according to thy holie vvill. And all the dayes and time of my life, I com<g ref="char:EOLhyphen"/>mend vnto thee, my ſoule &amp; bodie, my faith, my life, and my death: to be pre<g ref="char:EOLhyphen"/>ſerued, protected, and directed, by thee novve, and for euer. Amen.</p>
+         </div>
+         <div type="prayer">
+            <head>An other thenkeſgening, to be vſed euery night with a Confeſsion alſo of our ſinnes.</head>
+            <p>OMnipotent Father, &amp; moſt wor<g ref="char:EOLhyphen"/>thy of all adoration, who beareſt a louing and fatherly care tovvards vs, thy vnvvorthy children: I render vnto thee moſt harty thanks, for keping &amp; preſer<g ref="char:EOLhyphen"/>uing me this day paſt, and for other thy great giftes &amp; benefits, ſpiritual &amp; cor<g ref="char:EOLhyphen"/>poral, beſtowed on me vnkind vvretch, deſeruing rather to haue bene ſharply
+<pb n="34" facs="tcp:178568:18"/> puniſhed for my greeuous ſinne and in<g ref="char:EOLhyphen"/>gratitude: and alſo for my deliuery from diuers &amp; ſundry perils, bodely &amp; ghoſt<g ref="char:EOLhyphen"/>lye, into the vvhich many haue fallen.</p>
+            <p>I Confeſſe vnto thee, o moſt louing father with ſorowful hart, that this day I haue offended thy diuine Maieſty, in wicked thoughtes, wordes, &amp; workes: and eſpecially in this maner, place and time (here let him examine his co<g ref="char:cmbAbbrStroke">̄</g>ſcience and be ſorovvful for his ſinnes commit<g ref="char:EOLhyphen"/>ted) o moſte louing &amp; peetiful father, I hu<g ref="char:cmbAbbrStroke">̄</g>bly beſeech thee, by the immaculate life, and painful Paſſion, of thy deare Sonne our Lorde Ieſus Chriſt, of mercie and forgeuenes hovvſoeuer I haue of<g ref="char:EOLhyphen"/>fended this day, ether of frailtie, igno<g ref="char:EOLhyphen"/>rance, or malice: againſt thee, my neigh<g ref="char:EOLhyphen"/>bore, or my ſelfe. Amen.</p>
+            <p>Bleſſed Father and God of al mercy I humblie beſeech thee, to geue me the grace of true contrition, &amp; penance that I maye vvith a ſorovvful hart bevvaile
+<pb n="35" facs="tcp:178568:18"/> my ſinnes committed, and with firme purpoſe forſake and deteſt them, &amp; from hence forvvard, vvalke in newnes of li<g ref="char:EOLhyphen"/>fe, agreable to thy vvill &amp; my vocation. Create in me o Lord a clane harte, &amp; ge<g ref="char:EOLhyphen"/>ue me chaſtitie of bodie &amp; ſoule. Graunt that thy holy Angell maye keepe vs, and this houſe in peace, that ſo vve maye paſſe the night vvithout ſinne, to thine honoure, &amp; oure ſaluation. Amen.</p>
+            <p>I commend vnto thee O Lord my bo<g ref="char:EOLhyphen"/>die &amp; ſoule, friends &amp; enemies, ſicke &amp; vvhole: &amp; all Catholikes quicke &amp; dead vvith the vniuerſal Church, that thy bleſſinge may be vpon vs, and remaine vvith vs, now &amp; for euer-more. Amen.</p>
+            <p>The omnipotente &amp; bleſſed Trinitie, the Father, Sonne, &amp; holy Ghoſt: bleſſe &amp; keepe vs, &amp; graunte vnto vs a quiete nighte, and perfecte ende. Amen.</p>
+         </div>
+         <div type="prayer">
+            <head>A confeſsion of Faithe, &amp; deuout praier to the holy Trinitie, daylie to be vſed.</head>
+            <pb n="36" facs="tcp:178568:19"/>
+            <p> O Bleſſed Trinitie, Father, Sonne, and holy Ghoſt: three Perſons &amp; one God, I Beleeue with my hart, and Confeſſe with my mouth, al that the holy Catholike Church beleeueth and houldeth of thee: and aſmuch as a good Catholike and Chriſtian man ought, to feele &amp; beleeue of thee. And I here pro<g ref="char:EOLhyphen"/>teſt before thy diuiue Maieſty, that I wil (with thy gracions aſſiſtance) con<g ref="char:EOLhyphen"/>tinue al my life, in this Faith, and dye in the ſame. And I acknowledge thee my God and Father, maker of al the world, and I thy poore creature, ſubiecte, and ſeruant, make to thee fealtie, &amp; homa<g ref="char:EOLhyphen"/>ge, both of my bodie and ſoule, which I houlde of thee nobly, as of my ſoueraig<g ref="char:EOLhyphen"/>ne Lord &amp; God: with al the goods na<g ref="char:EOLhyphen"/>tural, ſpiritual, &amp; temporal that I haue, that euer I had &amp; that I intende to haue of thee, here in this world, or in the world to come, and with al my hart I thanke thee. And in ſigne of recogniſan<g ref="char:EOLhyphen"/>ce,
+<pb n="37" facs="tcp:178568:19"/> &amp; knowledge thereof, I paye vnto thee this litle tribute, morning and eue<g ref="char:EOLhyphen"/>ning: That is I adore &amp; worſhipe thee, with my hart &amp; mouth, in Faith, Hope and Charitie: with this litle Oraiſon or Praier, which al only appertaineth to thy B. Maieſtie, Signiorie and Diuinitie: &amp; hu<g ref="char:cmbAbbrStroke">̄</g>bly I require thee of three things.</p>
+            <p>The firſt is, mercy and forgenues, of as manny euils, ſinnes, &amp; offences, as I haue done in time paſte, againſt thy bleſſed wil.</p>
+            <p>The ſecond, that it vvil pleaſe thee, to geue me graee, that I may ſerue thee, &amp; accompliſhe thy Commandements, &amp; not to runne or fal into deadly ſinne.</p>
+            <p>The thirde is, that at my death, and great neede, thou wilt ſuccour me, and geue me grace that I may haue remem<g ref="char:EOLhyphen"/>brance of thy Bleſſed Paſſion, and true contrition for my ſinnes: &amp; that I may liue and dye, in the Faith and Vnitie, of holye Churche: and finally come to thy
+<pb n="38" facs="tcp:178568:20"/> glory eternal, With al ſaincts Amen.</p>
+         </div>
+         <div type="prayer">
+            <head>An other Deuote prayer, or Proteſtation.</head>
+            <p>O Lord God Almightie, which ſeeſt and knoweſt al things, in whom is al profound wiſdome, and Sapience: I wretched ſinner, being now in good health &amp; perfect memory (for which, as I am in dutie bounde, I thanke thee moſt hartelye) doe heare this daye (in diſſpite of al my ghoſtly enemies) make proteſtation, that if ether by enticeing, frailtie, te<g ref="char:cmbAbbrStroke">̄</g>ptation, or deceit, of the deuil or other aduerſities comming by ſorow paine ſicknes, feeblenes of body or by other occations whatſoeuer it be, I de<g ref="char:EOLhyphen"/>cline or falle in perille of my Soule, or preiudice of my healthe, or in error of the holye Faithe Catholike in which I was regenerate in the holy Fonte of Baptiſme: I do vtterly diſclame in it, re<g ref="char:EOLhyphen"/>nounce it, &amp; withe meeke acknowled<g ref="char:EOLhyphen"/>ging my faulte, doe in moſte humble manner craue pardon for it. In token
+<pb n="39" facs="tcp:178568:20"/> whereof, I doe now ſincerly profeſſe, to liue &amp; dye in the Faith of thy louing Spouſe, our holy mother the Catholike Church. And in witnes of this Con<g ref="char:EOLhyphen"/>feſſion, and proteſtation: I offer to thee the Creede in which al veritie &amp; truth is contained. And to thee I commend my Soule &amp; Bodye, my Faith, my Lyfe, and Death. Amen. I Bleeue in God &amp;c.</p>
+         </div>
+         <div type="prayer">
+            <head>A Prayer or Salutation, to our Lady.</head>
+            <p>HAile Mary the hand-mayde of the holy Trinitie moſt humble. Haile Mary choſen to be the moſt high daugh<g ref="char:EOLunhyphen"/>ter of God. Haile Mary ſpouſe of the ho<g ref="char:EOLhyphen"/>ly Ghoſt beſt beloued. Haile Mary the Mother of our Lord IESVS Chriſt moſt noble. Haile Mary the ſiſter of Angels moſt ſweete. Haile Mary promiſe of Prophets moſt deſireable. Haile Mary Queene &amp; daughter of Patriarkes moſt glorious. Haile Mary miſtreſſe of Euan<g ref="char:EOLhyphen"/>geliſts moſt faithful. Haile Mary teacher of the Apoſtles moſt wiſe. Haile Mary
+<pb n="40" facs="tcp:178568:21"/> the comforter of Martirs moſt valiant. Haile Mary holines, fountaine, &amp; ful<g ref="char:EOLhyphen"/>nes of Confeſſors moſte benigne. Haile Mary honour &amp; Crowne of chaſtity of Virgins moſt pure. Haile Mary the co<g ref="char:cmbAbbrStroke">̄</g>ſo latrice of quicke &amp; dead moſt readie. Be thou with me in al tribulatio<g ref="char:cmbAbbrStroke">̄</g> &amp; anguiſh of thy motherly pitie: &amp; in the houre of my deth, receiue my ſoule &amp; offer it to thy ſweete Sonne Ieſus (I beſeech thee) with all thoſe that haue comitted them ſelues to my praiers. Amen.</p>
+         </div>
+         <div type="prayer">
+            <head>A Bleſsing to be vſed before you goe forth.</head>
+            <p>The Imperial Maieſtie of God bleſſe me The Regall Diuinitie protecte me. The Euerlaſtinge Deytie keepe me. The Glorious Vnitie comforte me. The In<g ref="char:EOLhyphen"/>co<g ref="char:cmbAbbrStroke">̄</g>prehenſible Trinitie defend me. The Ineſtimable Goodnes direct me. The Power of the Father Gouerne me. The Wiſedome of the Sonne quicken me. The Vertue of the Holy Ghoſt, Illumi<g ref="char:EOLhyphen"/>nate me and be vvith me. Amen.</p>
+            <pb n="41" facs="tcp:178568:21"/>
+            <p> Alpha &amp; Omega, God &amp; Man: Let this Bleſſing be vnto me all health &amp; ſafetie of body &amp; ſoule, againſt all my enemies, viſible &amp; inuiſible: now &amp; for euer.</p>
+            <closer>Amen.</closer>
+         </div>
+         <div type="prayer">
+            <head>A moſt vertuous praier for all Eſtates.</head>
+            <p>O Moſte benigne Father, O Father moſt vvorthy to be praied vnto, I moſt miſerable vvretch, doe offer vnto thee, for al my ſinns (which I confeſſe are many and vile) and for the ſinns of the whole vvorld, the bitter Paſſion &amp; death of thy only Sonne, our Lord and Sauioure Ieſus Chriſt: I offer his la<g ref="char:EOLhyphen"/>bours, his faſtings: his vvearines, his vvatchings, his prayers, his teares, his humilitie,, his bountifulnes, his pacien<g ref="char:EOLhyphen"/>ce, and his Charitie: I offer his vexati<g ref="char:EOLhyphen"/>ons &amp; troubles of minde, his anguiſhes his contumelies, his paines his vvhip<g ref="char:EOLhyphen"/>pings, and his vvoundes: I offer al the drops of his moſt precious blood: I offer the merites of thy moſt ſvveete mother
+<pb n="42" facs="tcp:178568:22"/> and Virgin S. Mary, and of al thy holy Saincts.</p>
+            <p>O Moſt bleſſed Ieſus my Redeemer I geue thee humble thanks for thy innu<g ref="char:EOLhyphen"/>merable, benefits which thou haſt gran<g ref="char:EOLhyphen"/>ted and geuen vnto me, being moſt vn<g ref="char:EOLhyphen"/>worthy &amp; doeſt daily beſtow vpon me. For thy moſt ſacred Incarnation. chaſt Natiuitie, thy holy Life &amp; conuerſation thy moſt bitter Paſſion, &amp; the effuſion of thy moſt bleſſed blood: and for thy death which was moſt Ignominious. Make me, I beſeech thee pertaker of al thy merits and graunt that through the diligent immitation &amp; folowing of thy vertues, I may be found a liuely branche in thee, who arte the true Vine.</p>
+            <p>O Holy Ghoſt my comforter, I com<g ref="char:EOLhyphen"/>mend to thee my Soule and Body the be ginning and ende of my life, graunt me a good entrance &amp; beginning: Geue me grace to doe true Penance, that I maye be hartely ſory for my ſinnes, and from
+<pb n="43" facs="tcp:178568:22"/> them (by vertue of thy holy name) I maye be perfectlye purifyed before I deparre hence from this mortal bodye. I that am corupte and blinde in my affe<g ref="char:EOLhyphen"/>ctions and deſires. &amp; in my owne iudg<g ref="char:EOLhyphen"/>ment, am eaſily ouercome, eaſily I do erre, and am eaſily ſeduced and illuded: wherfore to thee (O Lord) I whollye commit, and offer my ſelfe. Defende &amp; kepe me thy vnworthy ſeruant from al euil, teach and illuminate my minde, gouerne me both within and without, ſtrengthen my weake ſpirite againſt in<g ref="char:EOLhyphen"/>ordinate puſillanimitie, and ſuperfluous ſcruples of Conſcience, and humble it that it fal not into preſumption. Geue me right Faith, vnmoueable Hope, ſin<g ref="char:EOLhyphen"/>cere &amp; perfect Charity, that I may ſweet lie delight in thee, I may loue thee har<g ref="char:EOLhyphen"/>telie, and euery vvhere I may fulfill thy holy vvill and pleaſure.</p>
+            <p>O Holy &amp; bleſſed Trinitie, God om<g ref="char:EOLhyphen"/>nipotet, I comment vnto thee al my
+<pb n="44" facs="tcp:178568:23"/> buſſines both ſpiritual and corporal. I co<g ref="char:cmbAbbrStroke">̄</g>mend vnto thee my benefactours, my neyghbours my friends, my familiars, &amp; al for whom I ought to pray, al thoſe which haue deſired, or doe deſire my prayers. I co<g ref="char:cmbAbbrStroke">̄</g>mend vnto thee, the whole Catholike Church, renew in it I beſee<g ref="char:EOLhyphen"/>che thee, purity of life, graunt that ech one may corect him ſelfe: noriſh &amp; kepe amog them that are members of the ſa<g ref="char:EOLhyphen"/>me Church mutual charitie, and con<g ref="char:EOLhyphen"/>tinually to loue thee. Such as doe erre call backe into the way of Saluation extinguiſh al hereſies, &amp; conuert thoſe to the knowledge of thy Faith, which as yet doe not know thee. Comfort and lift vp al that are trubled in mind and conſcience &amp; ſuch as are opreſſed with temptations and calamities.</p>
+            <p>All Hayle o holy Virgin Marye, the white Lillie of the B Trinitie, of whom the king of Heauen Ieſus Chriſt the bri<g ref="char:EOLhyphen"/>ghtnes of his Fathers glory, wolde be
+<pb n="45" facs="tcp:178568:23"/> borne: and with they ſweet milke be fedde and noriſhed. O bleſſed mother aſſiſt my weaknes in al temptations, and neceſſities in al peril of ſinne, and in the howre of my death, that thou helping and protecting me, I may be ſafe in our Lord.</p>
+            <p>O Bleſſed Spirits Angellical pray for me, and eſpicially thou holy Angel, the keper of my ſoule and body, haue thou faithful care ouer me. O al ye holy Sain<g ref="char:EOLhyphen"/>ctes of God, which haue paſſed ouer the troubles and vexations of his exile, and haue atained moſt happily to come to the porte of the celeſtial countrie, I moſt humbly cal you vnto my protections: helpe with your metites and praiers, both now &amp; in the howre of my death.</p>
+            <closer>Amen.</closer>
+         </div>
+         <div type="prayer">
+            <head>A Praier to be vſed at the begining of worke.</head>
+            <p>O Moſt glorious and indeuided Tri<g ref="char:EOLhyphen"/>nitie the Father, Sonne, and holie Ghoſt, vvho art the onlie and euer la<g ref="char:EOLhyphen"/>ſting
+<pb n="46" facs="tcp:178568:24"/> goodnes, &amp; vvithout vvhom no<g ref="char:EOLhyphen"/>thing may be parfecte: I beſech thee by thy almighty povver, confirme &amp; ſtreng then my memory, by thy vviſdome, li<g ref="char:EOLhyphen"/>ghten mine vnderſtanding, and by thy goodnes reforme and make perfect my vvill, that this vvorke vvhich I now goe about, may begin &amp; ende, to thine honor &amp; glory, to the help and confort of my neighbour, and ſaluation of my ſoule: the vvhich vvorke, &amp; my ſelfe al<g ref="char:EOLhyphen"/>ſo body &amp; ſoule, I humbly offer to thee. Conuert me to thee, o heaue<g ref="char:cmbAbbrStroke">̄</g>ly Artificer driue away the olde man with al his vi<g ref="char:EOLhyphen"/>cious inclinations, and make me anew. Create in me o Lord a cleane harte, &amp; an vpright intention in this &amp; all other my vvorkes: that both in me and them, thy holy name may be glorified, and thy B. vvil fulfilled.</p>
+         </div>
+         <div type="prayer">
+            <head>An other to be vſed at the ende of worke.</head>
+            <p>TO thee o God be al praiſe, which haſt permitted me to aco<g ref="char:cmbAbbrStroke">̄</g>pliſh this
+<pb n="47" facs="tcp:178568:24"/> vvorke. Grau<g ref="char:cmbAbbrStroke">̄</g>t O Lord, it may be to thee acceptable to me healthfull, and to o<g ref="char:EOLhyphen"/>thers profitable. Not vnto vs o Lord, not vnto vs but vnto thy holy name, geue golrye. Amen.</p>
+         </div>
+         <div type="prayer">
+            <head>A Deuoute Meditation, to procure Contrition and kindle the fyre of Douotion and feruore in Prayer: VVritten, by the Reuerent and Deuout Richard Roule Eremite at Hampoole.</head>
+            <p>VVHen thou prepareſt thy ſelfe to Praier, &amp; deſireſt to haue therein Deuotion: Seeke ſome conne<g ref="char:EOLhyphen"/>nient place, free from noiſe and trouble that thou maieſt haue ther ſome time of quiet vvithout diſturba<g ref="char:cmbAbbrStroke">̄</g>ce: ſit or kneele, as thou thinkeſt moſte conuenient.</p>
+            <p>Then be thou Emproure, Kinge, or Prince, Lorde, or Ladye, or any other perſone of vvhat ſtate ſoeuer: Conſider vvell there is a God, that hathe made thee of nothing, to his ovvne Image and likenes, and hath beſtovved on thee my righte vvittes and Sences, my limes, &amp;
+<pb n="48" facs="tcp:178568:25"/> all other features of bodye, with manye greate giftes &amp; grace ſpiritual &amp; corpo<g ref="char:EOLhyphen"/>ral: As memory, vnderſtanding, &amp; wil, alſo ſtrengthe, bewtye, &amp; comlye ſhape, with worldly eaſe &amp; pleaſures, that di<g ref="char:EOLhyphen"/>uers others vvant, vvhich liue in great diſtreſſe, and much anguiſhe of bodie &amp; minde: All vvhich, thou maieſt daily ſee, and behoulde before thee.</p>
+            <p>Thinke alſo, hovv frayle and ſinfull thou arte, and vvithout the keeping of that good Lorde, thou ſholdeſt fall into al kind of ſinne and iniquity, through thine ovvne vvretchednes and frailtye.</p>
+            <p>And further thou maieſt thinke as of thy ſelfe, there is no more ſinfull a crea<g ref="char:EOLhyphen"/>ture then thou art, and if thou haue any grace of good lyfe, in liuing more vp<g ref="char:EOLhyphen"/>rightly then ſome others: Conſider it commeth of God, &amp; not of thy ſelfe, &amp; by him that grace is freely geuen thee.</p>
+            <p>Call alſo to mind, how longe God hath ſuffered thee in thy ſinns, and how
+<pb n="49" facs="tcp:178568:25"/> often he might haue puniſhed thee with perpetual payne, vvhere-as by offending him thou deſeruedſt it, yet of his great mercie and goodnes, hath he ſpared thee, for the amendment of thy lyfe, that thou myghteſt aske mercye, and loueinglie hath he abiden thee, vntil thou vvoldſt come vnto him, leaue thy ſinne, and returne vnto good life: For lothe he vvere to forſake or loſe, that by death he bought ful deere, vvith bittter paynes, and the price of his moſt precious Blood.</p>
+            <p>Alſo thou mayeſt yet further conſid<g ref="char:EOLhyphen"/>der, that becauſe he vvold not loſe thee, he became Man, and vvas borne of a Virgin, he liued here in pouertie, an<g ref="char:EOLhyphen"/>guiſhe, and tribulation, al his life: and after that, death he vvold ſuffer to ſaue thee by his mercye, and bye thee againe that vvas loſte by ſinne and folie. In this manner, or the like, thou mayeſt conſi<g ref="char:EOLhyphen"/>der of his great goodnes and benefites.</p>
+            <p>And for obtayning of more grace and
+<pb n="50" facs="tcp:178568:26"/> deuotion in thy Prayers, and to get thee compunction: Behoulde here vvith the ghoſtlie Eye of thy Soule Chriſts pitious paynful Paſſion.</p>
+         </div>
+         <div type="prayer">
+            <p>FIrſte, Imagin in thy harte, that thou ſeeſt thy Lord taken of his enemies vvith many reproofs &amp; diſpites, brought before a Iudge, falſly there accuſed of manie vvicked men, and anſwered right nought, but meekly ſufred their wicked and reprochful wordes. They were de<g ref="char:EOLhyphen"/>ſirous to haue him deade, but firſt to ſuf<g ref="char:EOLhyphen"/>fer paynes.</p>
+            <p>Behould then that good Lord chiue<g ref="char:EOLhyphen"/>ring &amp; quaking, al his bodie naked bou<g ref="char:cmbAbbrStroke">̄</g>d to a piller, and aboute him ſtanding wic<g ref="char:EOLhyphen"/>ked men voyde of al reaſon, ſore ſcour<g ref="char:EOLhyphen"/>ging his moſte bleſſed bodie vvith out anie pitye.</p>
+            <p>See now, how they ſeaſe not from theire furious ſtrokes, though they ſee him ſtande in his owne blood, From the toppe of his head, to the ſole
+<pb n="51" facs="tcp:178568:26"/> of his foote, hole skin they leue none: his fleſhe they reſe to the bone, &amp; for weri<g ref="char:EOLhyphen"/>nes of them ſlues, they leue, him almoſte for dead.</p>
+            <p>Looke then aſide, vpon his bleſſed Mother, ſee vvhat ſorowe ſhe maketh for her deere Sonne, &amp; haue compaſſion of her paine, vvhich lyeth there in a ſwoone. Turne then again to thy Lord and ſee hovv rudelie they vnbynde him, hovv haſtely they draw him forth, to heape vpon his te<g ref="char:cmbAbbrStroke">̄</g>der bodye, more painye and tormentes.</p>
+            <p>A Garlande of ſharpe thornes they thruſte vvith violence on his B. head, til the blood ran downe into his eyes, noſe, mouth, &amp; eares. They kneele then downe vvith ſcornes, and riſe with re<g ref="char:EOLhyphen"/>proofes and ſpitte in his bleſſed face. Se the<g ref="char:cmbAbbrStroke">̄</g> how that B. Ladye beateth her breſt, and vvringeth her hands: &amp; I trow thou vvilte vveepe for that doleful ſighte.</p>
+            <pb n="52" facs="tcp:178568:27"/>
+            <p> Looke yet again to thy Lord, and ſee how ſpitefullie they hale him forth to an high hil, there to naile him hand and foote, to the Rood Tree. See there firſt how fearſely they pul of his clothes, how meekly he goeth then to the Croſſe, and ſpreadeth his armes abroad, and how with cordes, thoſe pitieles Tormentors dravve them forth, til his B. ſenewes &amp; Ioyntes al to bruſte. Then vvith greate boyſterous Nayles, they make faſte to the Croſſe his precious handes. In the ſame maner thou may ſee how greeuoſly they drawe his bleſſed legges, and nayle his feete, downe to the Tree. Se then how they proffer him to drinke bitter galle and iſel, and knele again before him vvith manie deſpites.</p>
+            <p>Then harken to that good Lord how meekly he taketh his leaue of his gra<g ref="char:EOLhyphen"/>cious Mother, and of his deare Apoſtle, &amp; betaketh them ether to other, as deare Mother and Sonne: &amp; after vvith a lowd
+<pb n="53" facs="tcp:178568:27"/> voyce he commendeth his Spirite, to his Father in Heauen, hanging downe his B. head vpon his breaſte. Se alſo how ſoone after, they pearce his harte vvith a Speare, in great fury, and how bloode and vvater guſheth forth of his B. ſide.</p>
+            <p>Then maieſt thou haue ful great pity behoulding that good Ladye, how for ſorow ſhe ſhrinketh down in her ſiſters armes. Take heede to the heuy chere of his Apoſtle S Iohn: To the teares of Mag<g ref="char:EOLhyphen"/>delein, and of his other friends: &amp; I hope among al theſe thou ſhalt haue com<g ref="char:EOLhyphen"/>punction. Then is it time to ſpeake for thine owne neede, and for al others aliue and dead that truſt to thy prayers. Caſte downe thy bodie to the ground, &amp; lifte vppe thy harte vvith doliful chere: and make thy prayer in maner as foloweth.</p>
+         </div>
+         <div type="prayer">
+            <p>O Lord God Almightie, bleſſed may thou boughteſt me, thy ſufferance is great in me. Thou vvouldeſt not condemne me
+<pb n="54" facs="tcp:178568:28"/> hauing often times iuſtly deſerued it: But thou haſt kepte and ſaued me, til I vvould forſake ſinne, and turne wholy to thee. Now Lord, with ſorowful harte I acknowledge to thy Goodnes, that I haue miſſpente vvithout profite, al my vvittes, powers, and vertues, that thou haſte geuen me, to the helpe of my ſoule</p>
+            <p>Al the time of my life, haue I vvaſted in diuers vanities, al the li<g ref="char:cmbAbbrStroke">̄</g>mes of my bo<g ref="char:EOLhyphen"/>die, in ſinne and ſuperfluities: The grace of my Chriſtendome, in pride and other vvretchednes: and trulie Lord, manie o<g ref="char:EOLhyphen"/>ther things haue I loued, better then thee, and not vvithſtanding my great vn<g ref="char:EOLhyphen"/>kindnes euer thou haſte noriſhed me, &amp; tenderly kepte me. Of thy great ſuffra<g ref="char:cmbAbbrStroke">̄</g>ce I had ful litle knowledge, &amp; of thy great rightuoſnes I had but litle dreed. I tooke no hede to tha<g ref="char:cmbAbbrStroke">̄</g>ke thee for thy great good<g ref="char:EOLhyphen"/>nes, but in al my life from daye to daye, great matter of vvrath, haue I heaped vppe through mine owne vvickednes.
+<pb n="55" facs="tcp:178568:28"/> Therfore ſweete Lord, vvhat I ſhal ſay to thee I knovv not: But only this vvorde in vvhich I truſt. God of thy great mer<g ref="char:EOLhyphen"/>cie, haue mercie vpo<g ref="char:cmbAbbrStroke">̄</g> me. I acknowledge o Lord, al that I haue, commeth onlie of thee, I knowe wel vvithout thee nothing may be, but ſinne and vvretchednes, vvhich commeth of me. Wherfore Lord vvith meke hart I beſeche thy goodnes doe not to me as I haue deſerued, but af<g ref="char:EOLhyphen"/>ter thy great mercy, &amp; ſend me the grace of the holie Ghoſt to lighten my hart, to comfort my ſpirite, to eſtabliſh me in the right vvay, and to performe thy wil, that I may haue perſeuerance, in that I haue begun, and neuer hereafter be ſe<g ref="char:EOLhyphen"/>perated from thee, by my vnſtablenes, ne by temptations to my enemie: I am vvorthy o Lord, to be chaſtiſed for my vvicked liuing, vvith vvhat rod it plea<g ref="char:EOLhyphen"/>ſeth thee: vvelcome be it Pacience good Lord ſend me, gladlie to ſuffer thy cor<g ref="char:EOLhyphen"/>rection, comfort me among of thy grace
+<pb n="56" facs="tcp:178568:29"/> &amp; vvhen thy vvil is, vvithdraw thy rod &amp; take me to thy mercie. Ful bitter be the temptations &amp; ful greuous to ſuffer, but though they be dreedful, I knovv they ſhal hereafter to my ſoule be meedful. O Lord thou knoweſt my hart is right feble much is my vnſtablenes &amp; my knowledg ful litle: Therfore good Lord, ſtrengthen me, eſtabliſh me, and teach me: and as thou made and bought me; ſo keepe and defend me. Bodie and Soule, I commit to thee, not as I vvil, but as thou wilt Lord ſo be it.</p>
+            <p>And novv good Ieſu Gods Sonne, that knoweſt al things, helpe me in al vvic<g ref="char:EOLhyphen"/>ked thoughts that I diſpleſe thee not in liking or conſenting. Ful oft I haue offen<g ref="char:EOLhyphen"/>ded thee in diuers thoughtes againſt thy vvil, &amp; much to my liking: therfore it is thy rightuouſnes, that I be trubled with other thoughts at thy pleaſure that be greuos to me. But ſwete Ieſus vvhen thy vvil is put them from me, and take me to
+<pb n="57" facs="tcp:178568:29"/> mercie. O Lord Ieſus Chriſt Gods Sonne, keep my mind, that I dilight not in vaine thoughts. Ieſus Chriſt Gods Sonne, vvhich ſtood ſtil before a Iudge, nothing, to him anſwering: vvith draw my ton<g ref="char:EOLhyphen"/>gue til I conſider hovv and vvhat I ſhal ſpeake that may be to thy vvoorſhippe.</p>
+            <p>Ieſus Chriſt Gods Sonne, vvhoſe hands vvere bound ful ſore for my loue: guide &amp; gouerne my hands &amp; al my other mem<g ref="char:EOLhyphen"/>bers, that my vvorkes may euer beginne to thy vvorſhip, and graciouſly end, to thy moſte honoure. Ariſe o Lorde, and helpe vs: And for thy holie names-ſake, ſaue &amp; deliuer vs. O Lord Ieſus Chriſt, cauſe me to haue in thy loue a meane vvithout meſure, an afection vvithout meane, a longing without order: &amp; a burning deſire vvithout ceaſſing.</p>
+            <p>O Lord I beſeche thee of mercie alſo for al thos that doe deſire my prayers &amp; though I be a moſt vvretched ſinner. vn<g ref="char:EOLhyphen"/>vvorthy to be hard, haue regard to their
+<pb n="58" facs="tcp:178568:30"/> humilitie and deuotion, and vvhat they deſire to thy vvorſhip, graunt the<g ref="char:cmbAbbrStroke">̄</g> for thy goodnes. Graunt them and me, &amp; to al o<g ref="char:EOLhyphen"/>ther that I am behoulding to, or bound to pray for, grace to loue vvhat is moſte to thy liking, thee to loue aboue al thinges, nothing to deſire that ſhould thee diſ<g ref="char:EOLhyphen"/>pleſe. Al temptations mightily to with<g ref="char:EOLhyphen"/>ſtand, al other vanities o Lord for thy loue to diſpiſe. Thee good Lord euer to haue in minde: and in thy ſeruice to a<g ref="char:EOLhyphen"/>bide to our liues ende, and if thou graunt vs anie thing to doe that ſhal be to vs meedful: grau<g ref="char:cmbAbbrStroke">̄</g>t part o Lord to the Soules departed, abidig thy mercie in the paynes of Purgatorye. Amen.</p>
+            <p>In ſuch maner thou maiest pray in the begin<g ref="char:EOLhyphen"/>ning, and vvhen thou art entred in deuotion, thou shalt percas haue better feeling in praier and holy meditations, then I can shew. Good brother or ſiſter pray then forme vvrit by the teching of Almighty God, haue vvhich thee theſe few vvordes, for the helpe of thy Soule, whome God
+<pb n="59" facs="tcp:178568:30"/> of his endles mercie gouerne, to his good pleaſure, and thy ſaluation. Amen.</p>
+         </div>
+         <div type="prayer">
+            <head>Verie Deuout and Godlye Prayers on the Paſsion of Chriſt. Gre. Mag.</head>
+            <p>O Lord Ieſus Chriſt, I adore &amp; wor<g ref="char:EOLhyphen"/>ſhip thee hanging on the Croſſe, bearing on thy head a Crown of Thorne, I pray thee, that thy holie Croſſe and death, be my defence and ſheeld; and I beſeche thee deliuer me from the Angel ſmiting. Amen. <hi>Pater noster. Aue Maria.</hi>
+            </p>
+            <p>O Lord Ieſus Chriſt, I adore and wor<g ref="char:EOLhyphen"/>ſhip thee vvounded vpon the Croſſe: and there drinking Gaul and Eiſel: I require thee that thy vvoundes, may euer be comfort to my Soule, and remiſſion of my ſinnes. Amen. <hi>Pater noster. Aue Maria.</hi>
+            </p>
+            <p>O Lord Ieſus Chriſt, I honour thee, for thoſe moſte bitter paines, vvhich on the Croſſe, thou didſt ſuffer forme: ſpe<g ref="char:EOLhyphen"/>cially in that howre, vvhen thy moſt holye Soule departed from thy bleſſed bodie: I beſeche thee haue mercie on my
+<pb n="60" facs="tcp:178568:31"/> Soule, vvhen it ſhal departe out of my bodye, and bring it to euerlaſting bliſſe: and Ioye in Heauen. Amen. <hi>Pater. Aue<g ref="char:punc">▪</g>
+               </hi>
+            </p>
+            <p>O Lord Ieſus Chriſt, I adore &amp; wor<g ref="char:EOLhyphen"/>ſhip thee, layde in the Sepulcher, anoyn<g ref="char:EOLhyphen"/>ted vvith Mirre and Inſcence: I beſeche thee that thy deathe, may be my lyfe, and lighte Euerlaſting. Amen. <hi>Pater. Aue.</hi>
+            </p>
+            <p>O Lord Ieſus Chriſt, I adore &amp; wor<g ref="char:EOLhyphen"/>ſhip thee, deſcending into Hel, and from thence deliuering thoſe that vvere Cap<g ref="char:EOLhyphen"/>tiue: I beſeche thee, that thou ſuffer not me thither to deſcend. Amen. <hi>P. Aue.</hi>
+            </p>
+            <p>O Lord Ieſus Chriſt, I adore &amp; wor<g ref="char:EOLhyphen"/>ſhip thee, Riſing from death, Aſcending into Heauen, and ſitting at the right hand of thy Father: I beſeche thee, that thither I may folovv thee, and that I may deſerue to be preſented before thee. Amen. <hi>P. A.</hi>
+            </p>
+            <p>O Lord Ieſus Chriſt, the good Shep<g ref="char:EOLhyphen"/>heard, co<g ref="char:cmbAbbrStroke">̄</g>ſerue and keepe the Iuſte, Iuſti<g ref="char:EOLhyphen"/>fie the Sinner, haue pitie vpon al faithful People, &amp; be merciful to me a greeuous
+<pb n="61" facs="tcp:178568:31"/> Sinner. Amen. <hi>Pater. Aue. Credo.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <p>I Beſeche thee o Lord Ieſus Chriſt, that thy Deathe, be my Lyfe, and ſtrength, vvith the vvhich, I may be Armed, pro<g ref="char:EOLhyphen"/>tected, and directed. Thy Woundes be vnto me, continual foode, vvherwith I may be refreſhed and delighted. The Shedding of thy moſte precious blood, be the waſhing away of all my ſinns. Thy paſſion, and Reſurrection: be vnto me Eternal Life and Glory. In theſe thinges, be all my delihgt, and deſire, my refection, and reioycing, my health, and ſtrength, my Ioye and ſtuddies: and the whole deſire, of my hart minde, and body: now and euer. Amen.</p>
+         </div>
+         <div type="prayer">
+            <head>Reaſons inducing vs to be gratful vnto God for his Benefites.</head>
+            <p>HOw much vve are bound continu<g ref="char:EOLhyphen"/>ally to laude and praiſe God, cheifly for his goodnes in him ſelfe, and alſo to be thankful to him for his B. Benefites: we may learne of the holy Prophet Da<g ref="char:EOLhyphen"/>uid,
+<pb n="62" facs="tcp:178568:32"/> which in that reſpect ſaid, the praiſe of God vvas in his mouth: For vve ought vvithout ceſſing as S. Bernard ſaith to geue thanks vnto him, vvhich neuer ceaſſeth to beſtow his benefites vpon vs.</p>
+            <p>And how dangerous it is to be ingrat<g ref="char:EOLhyphen"/>ful, it apeareth vvel in one of the holy Fathers ſaying, that there is nothing vvhich ſo much prouoketh the indigna<g ref="char:EOLhyphen"/>tion of God againſt vs, as ingratitude. Therfore ſeing vve vvere created to ſer<g ref="char:EOLhyphen"/>ue God: Let vs begin to learne here in Earth, as S. Bernard cou<g ref="char:cmbAbbrStroke">̄</g>ſaileth vs, praiſes vve ſhal yeld to him in heauen.</p>
+         </div>
+         <div type="prayer">
+            <head>A Moſte Godly and Deuoute prayſe, and Thankes-geuing to God, for his bleſſed Benefites Spiritual and Corporal: Of al true Chriſtians, daily to be vſed.</head>
+            <p>O Moſte holy B. glorious and Inde<g ref="char:EOLhyphen"/>uided Trinitie, the Father the Son<g ref="char:EOLhyphen"/>ne and Holye Gſtoſt, Three Perſons and one Almightie God: my Lord and God
+<pb n="63" facs="tcp:178568:32"/> my maker and redeemer, my noriſher, my defender, my ſweetnes, my mercy my refuge, my ſtrength, my victorye, my Sauiour, my Ioy, and glory Eternal.</p>
+            <p>I Laude thee, I glorifie thee, I honor and worſhip thee, O Bleſſed Trinitie, for that thou art in thy ſelfe: for thou art the higheſt God, from whom floweth al goodnes. Thou art gracious Eternity, thou art eternall Felicitie, thou art the depth of all Wiſdome and Sapience: Thou art only God, and ther is none without thee.</p>
+            <p>I Laude and honor thee o B. Trinitie, that mightilye haſte made of nothing Heauen and Earth, Sunne and Moone, and al other creaturs, and for that thou conſerueſt and gouerneſt al things in this Worlde All worſhip, Laude, glory, and thanks, be euer geuen to thee for al thy works, and of al thy creaturs, now and euer. Amen.</p>
+            <p>Alſo I Laude, thanke, and praiſe thee,
+<pb n="46" facs="tcp:178568:33"/> for that it pleaſed thee to make the ix. glo<g ref="char:EOLunhyphen"/>rious Orders of Angels, to laud &amp; honor thee eternally, and ſome of them to aſiſt vs faithfully, in this exile, and vale of miſary with <hi>houable</hi> &amp; neceſſary councels and helpings: and alſo to declare thine Ineffable goodnes. And thou madeſt al theſe thinges for man: But man, thou madeſt with thy proper hands, to thin owne glorious Image and liknes. Thou formed in him Vnderſtanding, and adorned, &amp; enabled him with free wil. I Laude and glorify thee, for that great gifte, in that thou ſet him in Paradiſe flowing with delights that he might haue high things in fruition, inferior things in gouernment, and to poſſeſt al things to thine honour, and to worſhip Laude and praiſe thee euerlaſtingly.</p>
+            <p>Yet thou made not thes noble crea<g ref="char:EOLhyphen"/>turs, Angel and man, for any neceſſity thou had to the<g ref="char:cmbAbbrStroke">̄</g>, for truly al things were ſufficient in thee, to thine eternal glory:
+<pb n="55" facs="tcp:178568:33"/> But of the feruor of charity, thou waſt moued to create them, that ſuch noble creatures ſhould be pertakers of thine inexpreſſable Ioye and glorye.</p>
+         </div>
+         <div type="prayer">
+            <head>Thankes geuing to God for our Creation and other benefites ſpiritual and corporal.</head>
+            <p>ANd furthermore, I Laude honour and worſhip thee O Lord, for that it hath pleaſed thee among al thy B. wor<g ref="char:EOLhyphen"/>kes to make me a reaſonnable man: For gracious, Lord thou mighteſt, if it had pleaſed thee, haue made me a clod of earth, a ſtone, a mine of metal, or any ſuch dead creature: Or elſe good Lord thou mighteſt haue made me an hearbe a plante, or a tree, bringing forth bloſſons and fruit, which hath life vegetiue to fructify: Or yet a more worthy creature then any of theſe, as a beaſt, bird, or fiſhe, hauing ſence, feeling, and local mouing: But thou o Lord, haſt made me none of al theſe creatures, but to my vſe, health, and helpe, haſt thou made them
+<pb n="46" facs="tcp:178568:34"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="55" facs="tcp:178568:34"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="46" facs="tcp:178568:35"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="55" facs="tcp:178568:35"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="66" facs="tcp:178568:36"/> al, to be my ſubiectes, and I to be their Soueraigne.</p>
+            <p>And to me. whom thou haſt made a creature reaſonable, thou haſt geuen power, Wiſdome, Reaſon, Vnderſta<g ref="char:cmbAbbrStroke">̄</g>ding, and free will, and haſt formed me with al my right li<g ref="char:cmbAbbrStroke">̄</g>ms and featur of body: and thou o Lord haſt beſtowed on me, the perfection of al the forſaid creatures, hauing geuen me being, with ſtons and metales: life, with Trees and hearbes: Sence, feling, &amp; moueing, with beaſtes: and Vnderſtanding with Angels: Hauing alſo indued me, with many other good giftes, ſpirituall, and Corporall, As the giftes of grace, giftes of nature, and the gifts of Fortune.</p>
+            <p>The giftes of Grace, as Memory, Vn<g ref="char:EOLhyphen"/>derſtanding, and wil, Minde, Reaſon, Imagination, and Capacity, which are calleed the mightes of the Soule invvard.</p>
+            <p>The gifts of Nature, as beauty, comly
+<pb n="67" facs="tcp:178568:36"/> ſhape, ſtrength, agility, and ſvviftnes: My v. wits, &amp; corporal limms, and menbers, as hands, feete, mouth, noſe, eyes, and eares, vvhich be the mightes of the Bodye outvvard.</p>
+            <p>And vvith theſe alſo the gifts of for<g ref="char:EOLhyphen"/>tune, as meate, drinke and cloth, vvorldly riches, and al other things neceſſary for Body &amp; Soule: vvhich many a good crea<g ref="char:EOLhyphen"/>ture that hath ſerued thee better then I haue wante: Al honour and praiſe be to thee, for al theſe thy louing kindnes, that thou o Lord haſt ſhewd to me, and I not withſtanding, haue bene ſo vnkind to the in miſpending theſe thy giftes, litle concidering thy aboundant goodnes: I humbly aſke mercy o Lor, for thes my treſpasſes: and loueingly I tha<g ref="char:cmbAbbrStroke">̄</g>ke thee, for thy greate Grace, and goodnes.</p>
+         </div>
+         <div type="prayer">
+            <head>Praiſes to God for his gracious viſitation Inſpiration and Preſeruation.</head>
+            <p>AL honour and Prayſe be to thee o Lord for thy manifolde mercies in
+<pb n="58" facs="tcp:178568:37"/> hauing ſo often viſyted my harte, vvith thy Graces, ſpiritual motions and good Inſpirations: And alſo haſt kepte defen<g ref="char:EOLhyphen"/>ded, and deliuered me, this day &amp; night, and al the daies and times of my life vnto this howre, from many perils and dan<g ref="char:EOLhyphen"/>gers of body and ſoule, As from fire and vvater, lightning, thunder, and tempeſte from ſlanders, ſhames, and rebukes of this vvorld and many other miſchiefes, into vvhich for my ſinnes, I might iuſtly haue fallen, thou o Lord, hauinge ſuffred many a vvorthier perſon then I, both in ſtrength, beauty, &amp; cunning, ſodainly to be puniſhed for their defaultes: But merciful Lord, me thou haſt ſpared and forborne, &amp; haſt ſuffred me in al my great and greuos treſpaſſes, vvhich I haue don againſt thee, more then they, paciently abiding alway for my conuerſion and ame<g ref="char:cmbAbbrStroke">̄</g>dment, vvhen rightfully thou might haue ſlaine me and damned me alſo per<g ref="char:EOLhyphen"/>petuallye.</p>
+            <pb n="59" facs="tcp:178568:37"/>
+            <p> Others Lord, thou haſt puniſhed by great troubles many vvaies, as by impri<g ref="char:EOLhyphen"/>ſonment, hunger, thirſt, could and heate, blindnes, and madnes, by bakbiting and open infamy: and me vnkinde vvretch thou caledſt by friendly chaſtiſings, as by bodily ſicknes, by death of frendes, or loſſe of vvorldly goods: And ſomtime thou admoniſhed me, calling me againe vvith ful benigne and tender loue, by exa<g ref="char:cmbAbbrStroke">̄</g>ple of others, that haue ben drowned, ſlaine, or dead ſodainly in my company: and I ſpared and ſaued, vvhich if I had then finiſhed my life as they did, I had ben vnready to thee, &amp; dyed in my ſinne.</p>
+            <p>Thus then haſt thou ſaued me, both ſoule and body, from many perils and dangers diuerſly for the which I geue thee moſt harty and louing thankes. For the multitude of al theſe thy mercies: forgeue me I beſeeche thee o Lord my great offences, and remember not my ſinnes and Iniquities, but of thy goodnes
+<pb n="58" facs="tcp:178568:38"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="59" facs="tcp:178568:38"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="58" facs="tcp:178568:39"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="59" facs="tcp:178568:39"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="70" facs="tcp:178568:40"/> pardone me, &amp; geue me grace co<g ref="char:cmbAbbrStroke">̄</g>tinuallye, to yelde acceptable thankes vnto thee for al thy B. Benefites.</p>
+         </div>
+         <div type="prayer">
+            <head>Laude &amp; Praiſe for our Sanctification &amp; Voca<g ref="char:EOLhyphen"/>tion, to the Vnitie of the Catholike Churche.</head>
+            <p>ABoue al theſe thy mercies, haſt thou o Lorde, of thy eſpecial grace and goodnes, knit me to thee, by calling me to the knowledge of thy ſelfe, and making me a member of thy Church ca<g ref="char:EOLhyphen"/>tholike: wheras many thouſand Iewes, Turkes, &amp; Infidels, that haue bene borne ſince I was, haue died in their iniquities, and many hundred thouſand alſo, ſince the beginning of the world vntil this time, more worthy and noble then I: &amp; if it had pleſed thee o Lord, thou mighteſt haue made me one of them, and ſo to haue liued and died as they did: But of thy eſpecial mercy and tender loue, haſt thou choſen me, among ſo many thou<g ref="char:EOLhyphen"/>sa<g ref="char:cmbAbbrStroke">̄</g>ds, to be one of thy darlings, borne now in the time of grace, among Chriſtian
+<pb n="71" facs="tcp:178568:40"/> people, and vnder the Keyes &amp; ſuffrages of holy Church, for the which, al honour be to thee for euermore. Amen.</p>
+         </div>
+         <div type="prayer">
+            <head>Thankes and praiſe to our Sauiour Ieſus for the Benefices of Redemption, Glorification, and fruition.</head>
+            <p>O Bleſſed Ieſus, I Laude and honoure thee vvhich for my ſake vvas borne of the B. Virgin, and ſuffred here, for the ſpace of xxxiij. yeres, hunger, thirſt, cold and heate: and after al, diſpite, and painfull death. And by that thy death, and bitter Paſſion, thou bought vs out of the thraldome of the fiende, the third daye, thy Soule and body, being knit again together, by thy glorious Reſurrection. And in thy Aſcention, haſt thou abled be, to be a Prince, or Princes, in the high Bliſſe of Heauen, not ten or xx. yeares, as earthly Princes liue here in this life, But euer to liue, vvorld vvithout end, in al Ioye, Bliſſe, &amp; endles Felicitye.</p>
+            <p>Great is the revvarde o Lord, thou
+<pb n="62" facs="tcp:178568:41"/> haſt prepared for me if I leue my ſinne, &amp; continue in thy ſeruice to my liues end That is three dovvries in my ſoule, and fiue in my bodye.</p>
+            <p>The three of my ſoule be theſe, perfect loue and Charity in thy Diuine Maieſtie. Clere Inſpection, of thy B. Godhead. And true knitting, and perpetual vnion to thee, vvithout diſſolution, or departing from thee.</p>
+            <p>And the bodie, ſhalbe indued vvith v. ſpecial giftes, As brightnes, ſvviftnes, &amp; ſubtilnes, able to pearſe euery thing as the Sunne pearſeth the Glaſſe: impaſ<g ref="char:EOLhyphen"/>ſibilitie, neuer to ſuffer paine of hunger, or thirſt, could, or heate, ſorovv, ne ſick<g ref="char:EOLhyphen"/>nes, trouble or heauines: and Imortality euer to liue in, Ioy, and al felicitie, and neuer die.</p>
+            <p>Al vvhich, vvhen I concider &amp; perceiue and that thou o Lord might haue made me a ſtone, ſtub, or anie other deade creature, and haſte not ſo done: But of
+<pb facs="tcp:178568:41"/> thy eſpecial great mercye, haſt aduanced me ſo worthilye, hauing made and abled me, to be an heyre, and to Inherite the high bliſſe of heauen, in the companies of Angels and al Sainctes, there with them thee to praiſe, thee to loue, and in thee to Ioye, world without end: I can<g ref="char:EOLhyphen"/>not but with ſorowful harte, lament my great Ingratitude towards thee. O merci<g ref="char:EOLhyphen"/>ful Lord, for thy great mercye, forgeue me al my ſinnes I beſeech thee: &amp; accor<g ref="char:EOLhyphen"/>ding to the multitude of thy compaſſions take pitie vppon me: And geue me grace daile to goe forward, in thy holy ſeruice, Faith, Feare, and Lone: and in the ſame to continue, to my liues end.</p>
+         </div>
+         <div type="prayer">
+            <head>A Praier for mercy and forgeuenes of ſinnes and for Grace to geue God thankes for his Benefites.</head>
+            <p>HAue mercy on me o God and of thy eſpecial Grace, grau<g ref="char:cmbAbbrStroke">̄</g>t me that I may with al my wits, bodily &amp; ghoſtly thanke thee entirly for al thy benefits, calling
+<pb n="62" facs="tcp:178568:42"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:178568:42"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="62" facs="tcp:178568:43"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:178568:43"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:178568:44"/> to my helpe, our Bleſſed Ladie, with al the number of Electe, to Praye and be<g ref="char:EOLhyphen"/>ſeche thee Lord of thy great goodnes to graunt the ſame, and to haue mercie on me, and forgeue me my ſinnes: That we together may thanke praiſe, &amp; laud, thee, nowe and euerlaſting. <hi>Amen.</hi>
+            </p>
+            <p>O Lord, for the gifts of Fortune we Laude and praiſe thee, ſaying <hi>Laudamus te:</hi> And for the giftes of Nature, wee Bleſſe thee, ſaying <hi>Benedicimus te:</hi> For thy gif<g ref="char:EOLhyphen"/>tes of Grace, we Adore and worſhip thee, ſaying <hi>Adoramus te:</hi> And for thy mer<g ref="char:EOLhyphen"/>ciful keeping, guiding, and gouerning vs in this life, we glorify thee ſayinge. <hi>Glorificamus te:</hi> And for thy great mercy, and metit, of our laſt reward: <hi>Gratias agi<g ref="char:EOLhyphen"/>mus tibi propter Magnam gloriam tuam. Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <head>Praiſe to God for his long ſuffrance, and cal<g ref="char:EOLhyphen"/>ling, and receauing, ſinners, to his Mercy.</head>
+            <p>O Lord God almighty, I Laud &amp; glori<g ref="char:EOLhyphen"/>fie thee, for al thy mercies, which thou haſt alwaies ſhewed to ſinners, paci<g ref="char:EOLhyphen"/>ently
+<pb facs="tcp:178568:44"/> abiding for them, mercifully Cal<g ref="char:EOLhyphen"/>ling them, benignely Receiuing them, aboundantly geuing grace to them, and to ſuch familiarity admitting them, as though they had neuer ſinned. O merci<g ref="char:EOLhyphen"/>ful Lord, and pacient God, what ſhal I ſay to thee, for al theſe thy benefits? What lauds and thankings, ſhal I yeld to thee? For if al my ſinnes were auoided from me, yet were I not worthy for the leaſt of them to geue condigne thankes vnto thee, but as a wretched ſinner may, with al my harte I Laude, thee, I Thanke thee, I Honoure and worſhippe thee: And al Laude and Prayſe be euer geuen vnto thee, worlde without ende. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <head>The Concluſion.</head>
+            <p>O Holy Trinitie in Vnitie, &amp; Vnitie, in Trinite, three in one, and one in Three: merciful and pitiful in al thy wor<g ref="char:EOLhyphen"/>kes, gracious in thy giftes, and God of al bounty: vouchſafe to heare benignely me thy wretched and ſinful ſeruant, and
+<pb facs="tcp:178568:45"/> with me, al the Sainctes of thy Heauen<g ref="char:EOLhyphen"/>lye Courte, beſeeching thee of mercye and forgeunes for my great ingratitude towards thee. This Praiſe and thankes geuing o Lord, which I preſume to offer and yelde vnto thy Diuine Maiſtie: Be it, through the merits of our Sauiour Ie<g ref="char:EOLhyphen"/>ſus Chriſt the prayers and, of al thy Elect, accepted and alowed, in the Eares of thy mercy and pitie. Raiſe me vp o Lord, and mercifully releeue me. Graunt pardon of al my ſinnes paſte, forgeue my gilte pre<g ref="char:EOLhyphen"/>ſent: &amp; defend me from al to come. <hi>Amen. Pater Aue. Credo Te deum.</hi>
+            </p>
+            <pb facs="tcp:178568:45"/>
+            <pb facs="tcp:178568:46"/>
+            <pb facs="tcp:178568:46"/>
+         </div>
+      </body>
+   </text>
+</TEI>
